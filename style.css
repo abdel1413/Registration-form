@@ -3,6 +3,8 @@ body {
   height: 100vh;
   margin: 0;
   background-color: #1b1b32;
+  font-family: Tahoma;
+  font-size: 16px;
   color: #f5f6f7;
 }
 
